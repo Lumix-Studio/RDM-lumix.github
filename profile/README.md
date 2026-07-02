@@ -1,6 +1,6 @@
 # 👋 Hello, we're Lumix Studio!
 
-![Lumix Studio Banner](lumix-studio-imagens/logo2.png)
+![Banner](https://example.com/banner.png)
 
 🎮 **Lumix Studio** is an independent game development team dedicated to transforming ideas into immersive experiences with a unique artistic vision and an independent spirit.
 
