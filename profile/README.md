@@ -13,3 +13,4 @@
    - [Commit Standard](https://github.com/Lumix-Studio/lumix-docs/blob/dev/%F0%9F%93%81%20Desenvolvimento/Commits-Padrao.md)
    - [Godot file structure](https://github.com/Lumix-Studio/lumix-docs/blob/dev/%F0%9F%93%81%20Desenvolvimento/Estrutura-Interna-Padrao.md)
    - [Code Documentation template](https://github.com/Lumix-Studio/lumix-docs/blob/dev/%F0%9F%93%81%20Desenvolvimento/documentacao-exemplo.md)
+   - [Hierarchy](https://github.com/Lumix-Studio/lumix-docs/blob/dev/%F0%9F%93%81%20Desenvolvimento/hierarquias.md)
